@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Yuxi's Programming Profolio</title>
+    </head>
+    <body>
+    <img src="myBanner.jpg">
+        
+    <table>
+        <h1>
+          <img src="home.png">
+          <img src="javascripts.png">
+          <img src="about.png">
+        </h1>
+    </table>
+    <h1>About me!</h1>
+    <hi>My name is Yuxi Wang, I come from China and study as a transfer student. I like singing and uploading my video on my Bilibili account.
+        
+    </body>
+</html>
